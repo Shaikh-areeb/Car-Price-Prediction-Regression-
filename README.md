@@ -9,15 +9,15 @@ The model aims to provide accurate price estimates by learning from historical d
 
 The dataset includes the following features:
 
-Car Brand: The manufacturer or brand of the car (e.g., Toyota, Honda, etc.).
-Year: The year the car was purchased or manufactured.
-Sold Price: The price at which the car was previously sold.
-Present Price: The current market price of the car.
-KMS Driven: Total kilometers driven by the car.
-Fuel Type: The type of fuel used by the car (e.g., Petrol, Diesel, etc.).
-Seller Type: Whether the seller is a dealer or an individual.
-Transmission Type: The type of transmission (Manual or Automatic).
-Owner: The number of previous owners of the car.
+Car Brand: The manufacturer or brand of the car (e.g., Toyota, Honda, etc.)
+Year: The year the car was purchased or manufactured
+Sold Price: The price at which the car was previously sold
+Present Price: The current market price of the car
+KMS Driven: Total kilometers driven by the car
+Fuel Type: The type of fuel used by the car (e.g., Petrol, Diesel, etc.)
+Seller Type: Whether the seller is a dealer or an individua
+Transmission Type: The type of transmission (Manual or Automatic)
+Owner: The number of previous owners of the car
 
 #Objective
 
