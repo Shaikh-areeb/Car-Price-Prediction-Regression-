@@ -9,17 +9,17 @@ The model aims to provide accurate price estimates by learning from historical d
 
 The dataset includes the following features:
 
-Car Brand: The manufacturer or brand of the car (e.g., Toyota, Honda, etc.)
-Year: The year the car was purchased or manufactured
-Sold Price: The price at which the car was previously sold
-Present Price: The current market price of the car
-KMS Driven: Total kilometers driven by the car
-Fuel Type: The type of fuel used by the car (e.g., Petrol, Diesel, etc.)
-Seller Type: Whether the seller is a dealer or an individua
-Transmission Type: The type of transmission (Manual or Automatic)
-Owner: The number of previous owners of the car
+1. Car Brand: The manufacturer or brand of the car (e.g., Toyota, Honda, etc.)
+2. Year: The year the car was purchased or manufactured
+3. Sold Price: The price at which the car was previously sold
+4. Present Price: The current market price of the car
+5. KMS Driven: Total kilometers driven by the car
+6. Fuel Type: The type of fuel used by the car (e.g., Petrol, Diesel, etc.)
+7. Seller Type: Whether the seller is a dealer or an individua
+8. Transmission Type: The type of transmission (Manual or Automatic)
+9. Owner: The number of previous owners of the car
 
-#Objective
+# Objective
 
 The primary goal of this project is to build a predictive model that can estimate a car's price based on these features, 
 enabling potential buyers and sellers to have a more informed understanding of the vehicle's value.
