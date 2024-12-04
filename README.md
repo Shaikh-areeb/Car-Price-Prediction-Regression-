@@ -1,4 +1,5 @@
 # Car_Price_Prediction-Regression
+![car](https://github.com/Shaikh-areeb/Car_Price_Prediction-Regression/blob/main/Car%20Price%20image.jpeg)
 
 # Project Overview
 
