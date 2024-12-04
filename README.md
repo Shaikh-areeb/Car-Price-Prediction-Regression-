@@ -37,6 +37,14 @@ Programming Language: Python
 Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 Machine Learning Models: Linear Regression, Lasso 
 
+## Model Performance
+
+| Model              | MSE       | R² Score  |
+|--------------------|-----------|-----------|
+| Linear Regression  | 2.518926  | 83.110695 |
+| Lasso Regression   | 2.518926  | 83.110695 |
+
+
 # Conclusion
 
 This project demonstrates how regression models can be used to predict car prices based on a combination of historical sales data and technical features. 
